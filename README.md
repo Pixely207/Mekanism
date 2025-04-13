@@ -1,7 +1,7 @@
 
 ![Mekanism Logo](logo.png)
 
-# Mekanism for Minecraft 1.17 #
+# Mekanism for Minecraft 1.17 # 
 
 Mekanism is a Minecraft add-on featuring high-tech machinery that can be used to create powerful tools, 
 armor, and weapons. You can find more detail on the features at the [**Official Website**](http://aidancbrady.com/mekanism/).
